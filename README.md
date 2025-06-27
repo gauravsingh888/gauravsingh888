@@ -1,22 +1,59 @@
+<!-- Banner -->
+
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate Data Analyst, Bussiness Analyst, MIS Executive, software developer from India</h3>
+<h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Power Bi Project - Sales Dashboard**
+---
 
-- 🌱 I’m currently learning **AWS**
+### 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **Data Analyst**
+- 🎓 Currently pursuing **MCA** at **Galgotias University** (CGPA: 8.6)
+- 💡 Passionate about **Machine Learning**, **Data Analytics**, and **Backend Development**
+- 🔍 Exploring opportunities as a **Business/Data Analyst Intern**
+- 📊 Skilled in Python, Java, MySQL, Excel, Power BI, TensorFlow
+- 🧠 Projects include Book Recommender, Irish Flower Classifier, and Image Classification using CNN
 
-- 👨‍💻 All of my projects are available at [https://www.artfolio.tech/gauravsingh#experience](https://www.artfolio.tech/gauravsingh#experience)
+---
 
-- 📫 How to reach me **gs306798@gmail.com**
+### 🔧 Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gaurav-singh888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaurav-singh888" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gs306798/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gs306798/" height="30" width="40" /></a>
-<a href="https://discord.gg/gauravsingh_49058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gauravsingh_49058" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+### 📘 Projects
+
+| Name | Description | Tech Stack |
+|------|-------------|------------|
+| 📚 **Book Recommendation System** | Suggests books using collaborative filtering | Python, Pandas, Scikit-learn |
+| 🌸 **Irish Flower Classification** | Predicts flower species with ML models | Python, Scikit-learn, NumPy |
+| 🧠 **CNN Image Classifier** | Classifies CIFAR-10 dataset images | TensorFlow, Keras, OpenCV |
+| 📈 **Bigmart Sales Prediction** | Forecasts sales using regression | Pandas, Matplotlib, ML models |
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:gs306798@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gaurav-singh888"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gaur2000"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+
+---
+
+### 📝 Quote
+
+> *"Data is the new oil, but insight is the real power."*
