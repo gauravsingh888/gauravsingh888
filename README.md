@@ -1,18 +1,17 @@
 <!-- Banner -->
 
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Python Developer </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing **MCA** at **Galgotias University** (CGPA: 8.6)
+- 🎓 I Have completed **MCA** at **Galgotias University** (CGPA: 8.7)
 - 💡 Passionate about **Machine Learning**, **Data Analytics**, and **Backend Development**
 - 🔍 Exploring opportunities as a **Business/Data Analyst Intern**
-- 📊 Skilled in Python, Java, MySQL, Excel, Power BI, TensorFlow
-- 🧠 Projects include Book Recommender, Irish Flower Classifier, and Image Classification using CNN
-
+- 📊 Skilled in C, Python, Java, MySQL, Excel, Power BI, AWS 
+- 🧠 Projects include Book Recommender, Irish Flower Classifier, and Image Classification using Tensorflow, Sales Dashboard for Blinkit Using Power BI
 ---
 
 ### 🔧 Tech Stack & Tools
@@ -36,7 +35,7 @@
 |------|-------------|------------|
 | 📚 **Book Recommendation System** | Suggests books using collaborative filtering | Python, Pandas, Scikit-learn |
 | 🌸 **Irish Flower Classification** | Predicts flower species with ML models | Python, Scikit-learn, NumPy |
-| 🧠 **CNN Image Classifier** | Classifies CIFAR-10 dataset images | TensorFlow, Keras, OpenCV |
+| 🧠 **Tensorflow Image Classifier** | Classifies CIFAR-10 dataset images | TensorFlow, Keras, OpenCV |
 | 📈 **Bigmart Sales Prediction** | Forecasts sales using regression | Pandas, Matplotlib, ML models |
 
 ---
