@@ -11,16 +11,16 @@
 ### 👨‍💻 About Me  
 
 - 🎓 Completed **MCA** at **Galgotias University** (CGPA: 8.7)  
-- 💡 Passionate about **Data Analytics, Business Intelligence, and AI-powered workflow automation**  
+- 💡 Passionate about **Data Analytics, Business Intelligence, MIS and AI-powered workflow automation**  
 - 🔍 Exploring opportunities as a **Data Analyst / BI Analyst / AI Developer**  
-- ⚡ Hands-on experience with **Python, SQL (MySQL/PostgreSQL), Power BI, FastAPI, TensorFlow, Docker, AWS**  
+- ⚡ Hands-on experience with **Python, SQL (MySQL,ElasticSearch), Power BI,Excel, Docker, AWS**  
 - 📊 Projects include: **Sales Data Dashboard, Image Classification (CNN), AI Workflow Automation (DevDojo), Book Recommender, BigMart Sales Prediction**  
 
 ---
 
 ### 🌱 Currently Learning  
 - Advanced SQL Optimization  
-- Machine Learning with TensorFlow  
+- Databricks 
 - Data Engineering with Python & Airflow  
 
 ---
@@ -102,7 +102,6 @@
 
 ### 🎓 Certifications  
 
-- ETL in Python and SQL — LinkedIn Learning (2025)  
 - Learning Excel: Data Analysis — LinkedIn Learning (2025)  
 - Python Essential Training — LinkedIn Learning (2025)  
 - Google Data Analytics — Coursera (2024)  
@@ -115,20 +114,13 @@
 ## 🧩 HackerRank Progress
 <!-- HACKERRANK:START -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/gauravsingh888?theme=dark&font=Montserrat&ext=heatmap" alt="HackerRank Progress" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/gauravsingh888?theme=dark&font=Montserrat&ext=heatmap" alt="HackerRank Progress" width="60%" height="45%"/>
 </p>
 
 <!-- HACKERRANK:END -->
 
 ---
 
-## ⏳ Daily Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gauravsingh888&layout=compact&theme=radical" alt="WakaTime Stats"/>
-</p>
-
----
 
 ## 📊 GitHub Stats & Activity  
 
