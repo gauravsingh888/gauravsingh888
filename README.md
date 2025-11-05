@@ -1,4 +1,8 @@
-<!-- Banner -->
+<!-- Dynamic Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&width=435&lines=Data+Analyst+%7C+Python+%26+SQL+Developer;Business+Intelligence+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">Data Analyst | Business Intelligence Enthusiast | Python & SQL Developer</h3>
 
@@ -11,6 +15,13 @@
 - 🔍 Exploring opportunities as a **Data Analyst / BI Analyst / AI Developer**  
 - ⚡ Hands-on experience with **Python, SQL (MySQL/PostgreSQL), Power BI, FastAPI, TensorFlow, Docker, AWS**  
 - 📊 Projects include: **Sales Data Dashboard, Image Classification (CNN), AI Workflow Automation (DevDojo), Book Recommender, BigMart Sales Prediction**  
+
+---
+
+### 🌱 Currently Learning  
+- Advanced SQL Optimization  
+- Machine Learning with TensorFlow  
+- Data Engineering with Python & Airflow  
 
 ---
 
@@ -28,7 +39,7 @@
 #### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" title="Visual Studio Code" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/96/jupyter.png" title="Jupyter Notebook" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/ms-excel.png" title="Microsoft Excel" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/docker.png" title="Docker" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/amazon-web-services.png" title="AWS" width="55" height="55"/>
@@ -40,17 +51,16 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/ms-excel.png" title="Microsoft Excel" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/96/microsoft-power-query.png" title="Power Query" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Power_Query_logo.svg" title="Microsoft Power Query" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" title="SQL Server" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/google-sheets.png" title="Google Sheets" width="55" height="55"/>
 </p>
-
 
 ---
 
 ### 🧩 Coding Profiles  
 
-<p align="left">
+<p align="center">
   <a href="https://www.hackerrank.com/profile/gauravcool_680" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
@@ -109,7 +119,15 @@ Loading latest HackerRank stats...
 
 ---
 
-### 📊 GitHub Stats & Activity  
+## ⏳ Daily Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gauravsingh888&layout=compact&theme=radical" alt="WakaTime Stats"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravsingh888&show_icons=true&theme=radical" alt="Gaurav's GitHub stats" />
@@ -129,9 +147,17 @@ Loading latest HackerRank stats...
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravsingh888&theme=radical&no-frame=true&margin-w=5&row=1" alt="Trophies" />
+</p>
+
+---
+
 ### 📫 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="mailto:gs306798@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gaurav-singh888"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/gauravsingh888"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -143,6 +169,10 @@ Loading latest HackerRank stats...
 
 > *"Data is the new oil, but insight is the real power."*  
 > — Gaurav Singh  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote"/>
+</p>
 
 ---
 
