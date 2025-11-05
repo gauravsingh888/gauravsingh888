@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/ms-excel.png" title="Microsoft Excel" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Power_Query_logo.svg" title="Microsoft Power Query" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/gauravsingh888/assets/main/powerquery.png" title="Microsoft Power Query" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" title="SQL Server" width="55" height="55"/>
   <img src="https://img.icons8.com/color/96/google-sheets.png" title="Google Sheets" width="55" height="55"/>
 </p>
@@ -114,7 +114,10 @@
 
 ## 🧩 HackerRank Progress
 <!-- HACKERRANK:START -->
-Loading latest HackerRank stats...
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gauravsingh888?theme=dark&font=Montserrat&ext=heatmap" alt="HackerRank Progress" width="90%"/>
+</p>
+
 <!-- HACKERRANK:END -->
 
 ---
