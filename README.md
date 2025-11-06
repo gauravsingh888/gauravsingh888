@@ -122,34 +122,6 @@
 ---
 
 
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravsingh888&show_icons=true&theme=radical" alt="Gaurav's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsingh888&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh888&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsingh888&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravsingh888&theme=radical&no-frame=true&margin-w=5&row=1" alt="Trophies" />
-</p>
-
----
-
 ### 📫 Connect with Me  
 
 <p align="center">
