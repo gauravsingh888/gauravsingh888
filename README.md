@@ -110,12 +110,12 @@
 - C Programming — Ducat Classes (2023)  
 
 ---
-<!-- HACKERRANK:START
+<!-- HACKERRANK:START -->
 ## 🧩 HackerRank Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gauravsingh888?theme=dark&font=Montserrat&ext=heatmap" alt="HackerRank Progress" width="60%" height="45%"/>
 </p>
-HACKERRANK:END -->
+<!-- HACKERRANK:END -->
 
 ---
 
